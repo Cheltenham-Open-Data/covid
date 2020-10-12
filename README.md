@@ -1,4 +1,4 @@
-# Cheltenham coronavirus19
+# Cheltenham Coronavirus Summary (covid19)
 
 An archive of covid data from coronavirus.gov.uk for the lower tier government area of Cheltenham, in Gloucestershire.
 
