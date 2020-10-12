@@ -1,1417 +1,3681 @@
 [
     {
         "date": "2020-10-11",
-        "newCases": 15,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 15,
+            "cumulative": 656
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-10-10",
-        "newCases": 11,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 11,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-09",
-        "newCases": 15,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 15,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-08",
-        "newCases": 7,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 7,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-07",
-        "newCases": 7,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 7,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-06",
-        "newCases": 10,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 10,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-05",
-        "newCases": 8,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 8,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-04",
-        "newCases": 17,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 17,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-03",
-        "newCases": 14,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 14,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-02",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-10-01",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 98
+        }
     },
     {
         "date": "2020-09-30",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 97
+        }
     },
     {
         "date": "2020-09-29",
-        "newCases": 6,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 6,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 97
+        }
     },
     {
         "date": "2020-09-28",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 97
+        }
     },
     {
         "date": "2020-09-27",
-        "newCases": 4,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 4,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 97
+        }
     },
     {
         "date": "2020-09-26",
-        "newCases": 10,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 10,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 97
+        }
     },
     {
         "date": "2020-09-25",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 96
+        }
     },
     {
         "date": "2020-09-24",
-        "newCases": 12,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 12,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 96
+        }
     },
     {
         "date": "2020-09-23",
-        "newCases": 5,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 5,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 96
+        }
     },
     {
         "date": "2020-09-22",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 96
+        }
     },
     {
         "date": "2020-09-21",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 96
+        }
     },
     {
         "date": "2020-09-20",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 95
+        }
     },
     {
         "date": "2020-09-19",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 95
+        }
     },
     {
         "date": "2020-09-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-17",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-16",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-15",
-        "newCases": 4,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 4,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-13",
-        "newCases": 5,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 5,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-12",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-11",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-10",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-09",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-08",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-07",
-        "newCases": 4,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 4,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-06",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 94
+        }
     },
     {
         "date": "2020-09-05",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-09-04",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-09-03",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-09-02",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-09-01",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-31",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-30",
-        "newCases": 6,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 6,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-28",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-27",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-25",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-24",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-22",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-21",
-        "newCases": 4,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 4,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-20",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-19",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-17",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-16",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-14",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-11",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-08",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-08-01",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-31",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-30",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-28",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-27",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 93
+        }
     },
     {
         "date": "2020-07-25",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-24",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-23",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-19",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 92
+        }
     },
     {
         "date": "2020-07-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 91
+        }
     },
     {
         "date": "2020-07-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 91
+        }
     },
     {
         "date": "2020-07-16",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 91
+        }
     },
     {
         "date": "2020-07-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 91
+        }
     },
     {
         "date": "2020-07-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 91
+        }
     },
     {
         "date": "2020-07-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 90
+        }
     },
     {
         "date": "2020-07-12",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 90
+        }
     },
     {
         "date": "2020-07-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 90
+        }
     },
     {
         "date": "2020-07-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 90
+        }
     },
     {
         "date": "2020-07-09",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 90
+        }
     },
     {
         "date": "2020-07-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-04",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-03",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-07-01",
-        "newCases": 95,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 95,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-30",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-28",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-27",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-25",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-24",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 89
+        }
     },
     {
         "date": "2020-06-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-19",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-18",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-16",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 88
+        }
     },
     {
         "date": "2020-06-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 87
+        }
     },
     {
         "date": "2020-06-14",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 87
+        }
     },
     {
         "date": "2020-06-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 86
+        }
     },
     {
         "date": "2020-06-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 86
+        }
     },
     {
         "date": "2020-06-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 86
+        }
     },
     {
         "date": "2020-06-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 86
+        }
     },
     {
         "date": "2020-06-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 86
+        }
     },
     {
         "date": "2020-06-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-03",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 85
+        }
     },
     {
         "date": "2020-06-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 84
+        }
     },
     {
         "date": "2020-06-01",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 84
+        }
     },
     {
         "date": "2020-05-31",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 84
+        }
     },
     {
         "date": "2020-05-30",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 84
+        }
     },
     {
         "date": "2020-05-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 83
+        }
     },
     {
         "date": "2020-05-28",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 83
+        }
     },
     {
         "date": "2020-05-27",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 82
+        }
     },
     {
         "date": "2020-05-26",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 81
+        }
     },
     {
         "date": "2020-05-25",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 79
+        }
     },
     {
         "date": "2020-05-24",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 79
+        }
     },
     {
         "date": "2020-05-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 79
+        }
     },
     {
         "date": "2020-05-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 76
+        }
     },
     {
         "date": "2020-05-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 76
+        }
     },
     {
         "date": "2020-05-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 76
+        }
     },
     {
         "date": "2020-05-19",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 75
+        }
     },
     {
         "date": "2020-05-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 75
+        }
     },
     {
         "date": "2020-05-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 74
+        }
     },
     {
         "date": "2020-05-16",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 74
+        }
     },
     {
         "date": "2020-05-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 72
+        }
     },
     {
         "date": "2020-05-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 72
+        }
     },
     {
         "date": "2020-05-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 72
+        }
     },
     {
         "date": "2020-05-12",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 71
+        }
     },
     {
         "date": "2020-05-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 71
+        }
     },
     {
         "date": "2020-05-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 71
+        }
     },
     {
         "date": "2020-05-09",
-        "newCases": 1,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 1,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 71
+        }
     },
     {
         "date": "2020-05-08",
-        "newCases": 4,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 4,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 70
+        }
     },
     {
         "date": "2020-05-07",
-        "newCases": 5,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 5,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 70
+        }
     },
     {
         "date": "2020-05-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 70
+        }
     },
     {
         "date": "2020-05-05",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 70
+        }
     },
     {
         "date": "2020-05-04",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 70
+        }
     },
     {
         "date": "2020-05-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 68
+        }
     },
     {
         "date": "2020-05-02",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 66
+        }
     },
     {
         "date": "2020-05-01",
-        "newCases": 6,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 6,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 65
+        }
     },
     {
         "date": "2020-04-30",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 64
+        }
     },
     {
         "date": "2020-04-29",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 61
+        }
     },
     {
         "date": "2020-04-28",
-        "newCases": 7,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 7,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 58
+        }
     },
     {
         "date": "2020-04-27",
-        "newCases": 6,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 6,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 57
+        }
     },
     {
         "date": "2020-04-26",
-        "newCases": 3,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 3,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 57
+        }
     },
     {
         "date": "2020-04-25",
-        "newCases": 6,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 6,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 56
+        }
     },
     {
         "date": "2020-04-24",
-        "newCases": 7,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 7,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 54
+        }
     },
     {
         "date": "2020-04-23",
-        "newCases": 5,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 5,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 53
+        }
     },
     {
         "date": "2020-04-22",
-        "newCases": 2,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 2,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 51
+        }
     },
     {
         "date": "2020-04-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 50
+        }
     },
     {
         "date": "2020-04-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 49
+        }
     },
     {
         "date": "2020-04-19",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 46
+        }
     },
     {
         "date": "2020-04-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 46
+        }
     },
     {
         "date": "2020-04-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 44
+        }
     },
     {
         "date": "2020-04-16",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 42
+        }
     },
     {
         "date": "2020-04-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 40
+        }
     },
     {
         "date": "2020-04-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 38
+        }
     },
     {
         "date": "2020-04-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 32
+        }
     },
     {
         "date": "2020-04-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 29
+        }
     },
     {
         "date": "2020-04-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 27
+        }
     },
     {
         "date": "2020-04-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 23
+        }
     },
     {
         "date": "2020-04-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 18
+        }
     },
     {
         "date": "2020-04-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 16
+        }
     },
     {
         "date": "2020-04-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 13
+        }
     },
     {
         "date": "2020-04-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 12
+        }
     },
     {
         "date": "2020-04-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 12
+        }
     },
     {
         "date": "2020-04-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 11
+        }
     },
     {
         "date": "2020-04-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 10
+        }
     },
     {
         "date": "2020-04-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 9
+        }
     },
     {
         "date": "2020-04-01",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 6
+        }
     },
     {
         "date": "2020-03-31",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 6
+        }
     },
     {
         "date": "2020-03-30",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 4
+        }
     },
     {
         "date": "2020-03-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 3
+        }
     },
     {
         "date": "2020-03-28",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 3
+        }
     },
     {
         "date": "2020-03-27",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-25",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-24",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": 1
+        }
     },
     {
         "date": "2020-03-19",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-16",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-03-01",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-28",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-27",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-25",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-24",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-19",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-16",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-02",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-02-01",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-31",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-30",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-29",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-28",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-27",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-26",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-25",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-24",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-23",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-22",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-21",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-20",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-19",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-18",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-17",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-16",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-15",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-14",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-13",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-12",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-11",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-10",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-09",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-08",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-07",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-06",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-05",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-04",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     },
     {
         "date": "2020-01-03",
-        "newCases": 0,
-        "deaths": null
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 0,
+            "cumulative": null
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
     }
 ]
