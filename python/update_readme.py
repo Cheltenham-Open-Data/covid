@@ -10,21 +10,27 @@ import json
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open( root / "corona.json", 'r') as filehandle:
     data = json.load(filehandle)
+
     total_cases = 0
     total_deaths = 0
+    counter = 0
     cum_cases = data[0]['cases']['cumulative']
     cum_deaths = data[0]['deaths']['cumulative']
+    last_date = data[1]['date']
+    last_cum_deaths = data[1]['deaths']['cumulative']
     for item in data:
-        cases = 0 if item['cases']['daily'] == None else item['cases']['daily']
-        deaths = 0 if item['deaths']['daily'] == None else item['deaths']['daily']
-        total_cases += cases
-        total_deaths += deaths
+        counter += 1
+        date = item['date']
+        total_cases += 0 if item['cases']['daily'] == None else item['cases']['daily']
+        total_deaths = 0 if item['deaths']['daily'] == None else item['deaths']['daily']
 
-header = f"## Overall statistics\n\n Data might not match due to reporting issues in the underlying data\n"
+header = f"## Overall statistics\n\n Data based on {counter} records. Data might not match due to reporting/timing issues in the underlying data\n"
 string1 = f"\n- The sum of the daily cases in Cheltenham is {total_cases}."
 string2 = f"\n- The sum of the daily deaths in Cheltenham is {total_deaths}."
 string3 = f"\n- The last recorded cumulative cases total in Cheltenham is {cum_cases}."
-string4 = f"\n- The last recorded cumulative death total in Cheltenham is {cum_deaths}."
+string4 = (f"\n- The last recorded cumulative death total in Cheltenham is {cum_deaths}"
+            f" however, the on {last_date}, {last_cum_deaths} were recorded as a cumulative total")
+
 output = header + string1 + string2 + string3 + string4
 
 
