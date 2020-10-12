@@ -2,7 +2,7 @@
 
 An archive of covid data from coronavirus.gov.uk for the lower tier government area of Cheltenham, in Gloucestershire.
 
-Using a scheduled github-action to run some python that saves coronavirus.json file once a day
+Using a scheduled github-action to run some python that saves corona.json file once a day
 
 A further python script updates this readme with summary statistics
 
