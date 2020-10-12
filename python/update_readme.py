@@ -29,13 +29,13 @@ string1 = f"\n- The sum of the daily cases in Cheltenham is {total_cases}."
 string2 = f"\n- The sum of the daily deaths in Cheltenham is {total_deaths}."
 string3 = f"\n- The last recorded cumulative cases total in Cheltenham is {cum_cases}."
 string4 = (f"\n- The last recorded cumulative death total in Cheltenham is {cum_deaths}"
-            f" however, the on {last_date}, {last_cum_deaths} were recorded as a cumulative total")
+            f" however, on the {last_date}, {last_cum_deaths} were recorded as a cumulative total")
 
 output = header + string1 + string2 + string3 + string4
 
 
-string_builder = "## Last 10 days\n\n"
-for i in range(0, 10):
+string_builder = "## Last 30 days\n\n"
+for i in range(0, 30):
     string_builder += (f"- {0 if data[i]['cases']['daily'] == None else data[i]['cases']['daily']} new cases & "
     f"{0 if data[i]['deaths']['daily'] == None else data[i]['deaths']['daily']} deaths ")
     if i == 0:
