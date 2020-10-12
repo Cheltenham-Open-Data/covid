@@ -9,7 +9,7 @@ city = os.getenv('city_code') or 'Cheltenham'
 def get_covid_data():
     endpoint = (
         f'https://api.coronavirus.data.gov.uk/v1/data?filters=areaType=ltla;areaName={city}&'
-        'structure={"date":"date","newCases":"newCasesByPublishDate","deaths":"newDeathsByDeathDate"}'
+        'structure={"date":"date","areaName":"areaName","areaCode":"areaCode","cases": {"daily":"newCasesByPublishDate","cumulative":"cumCasesByPublishDate"},"deaths": {"daily":"newDeathsByDeathDate","cumulative":"cumDeathsByDeathDate"}}'
     )
     response = get(endpoint, timeout=10)
     if response.status_code >= 400:
