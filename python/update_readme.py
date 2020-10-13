@@ -49,7 +49,7 @@ for i in range(0, 30):
 # processing
 if __name__ == "__main__":
     all_news = ""
-    readme = root / "readme.md"
+    readme = root / "README.md"
     readme_contents = readme.open().read()
     final_output = helper.replace_chunk(
         readme_contents,

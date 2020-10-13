@@ -19,7 +19,7 @@ def get_covid_data():
 # output
 if __name__ == "__main__":
     root = pathlib.Path(__file__).parent.parent.resolve()
-    with open( root / f"corona.json", 'r+') as filehandle:
+    with open( root / "corona.json", 'r+') as filehandle:
         data = json.load(filehandle)
         new_data = get_covid_data()
         filehandle.seek(0)
