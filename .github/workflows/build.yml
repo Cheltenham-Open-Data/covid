@@ -1,9 +1,9 @@
-name: Daily Build
+name: Scheduled Build
 # build and tweet
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '45 7 * * *'
+    - cron:  '45 7,19 * * *'
 
 jobs:
   build:
