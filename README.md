@@ -9,17 +9,18 @@ A further python script updates this readme with summary statistics
 <!-- summary_marker starts -->
 ## Overall statistics
 
- Data based on 284 records. Data might not match due to reporting/timing issues in the underlying data
+ Data based on 285 records. Data might not match due to reporting/timing issues in the underlying data
 
-- The sum of the daily cases in Cheltenham is 412.
+- The sum of the daily cases in Cheltenham is 424.
 - The sum of the daily deaths in Cheltenham is 0.
-- The last recorded cumulative cases total in Cheltenham is 662.
-- The last recorded cumulative death total in Cheltenham is None however, on the 2020-10-11, 98 were recorded as a cumulative total
+- The last recorded cumulative cases total in Cheltenham is 674.
+- The last recorded cumulative death total in Cheltenham is None however, on the 2020-10-12, 98 were recorded as a cumulative total
 
 ## Last 30 days
 
-- 6 new cases & 0 deaths today
-- 15 new cases & 0 deaths yesterday
+- 12 new cases & 0 deaths today
+- 6 new cases & 0 deaths yesterday
+- 15 new cases & 0 deaths on 2020-10-11
 - 11 new cases & 0 deaths on 2020-10-10
 - 15 new cases & 0 deaths on 2020-10-09
 - 7 new cases & 0 deaths on 2020-10-08
@@ -47,6 +48,5 @@ A further python script updates this readme with summary statistics
 - 3 new cases & 0 deaths on 2020-09-16
 - 4 new cases & 0 deaths on 2020-09-15
 - 0 new cases & 0 deaths on 2020-09-14
-- 5 new cases & 0 deaths on 2020-09-13
 
 <!-- summary_marker ends -->
