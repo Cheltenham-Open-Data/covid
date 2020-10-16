@@ -1,5 +1,3 @@
-# Cheltenham Coronavirus Summary (covid19)
-
 An archive of covid data from coronavirus.gov.uk for the lower tier government area of Cheltenham, in Gloucestershire.
 
 Using a scheduled github-action to run some python that saves corona.json file once a day
@@ -7,7 +5,7 @@ Using a scheduled github-action to run some python that saves corona.json file o
 A further python script updates this readme with summary statistics
 
 <!-- summary_marker starts -->
-## Overall statistics
+# Overall statistics
 
  Data based on 288 records. Data might not match due to reporting/timing issues in the underlying data
 
