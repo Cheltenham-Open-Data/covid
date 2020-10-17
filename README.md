@@ -1,5 +1,5 @@
 <!-- summary_marker starts -->
-# Overall statistics
+## Overall statistics
 
  Data based on 288 records. Data might not match due to reporting/timing issues in the underlying data
 
