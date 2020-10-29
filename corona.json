@@ -1,15 +1,28 @@
 [
     {
+        "date": "2020-10-29",
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 17,
+            "cumulative": 872
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
+    },
+    {
         "date": "2020-10-28",
         "areaName": "Cheltenham",
         "areaCode": "E07000078",
         "cases": {
             "daily": 27,
-            "cumulative": 855
+            "cumulative": null
         },
         "deaths": {
-            "daily": null,
-            "cumulative": null
+            "daily": 1,
+            "cumulative": 102
         }
     },
     {
