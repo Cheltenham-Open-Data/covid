@@ -1,17 +1,18 @@
 <!-- summary_marker starts -->
 ## Overall statistics
 
- Data based on 325 records. Data might not match due to reporting/timing issues in the underlying data
+ Data based on 326 records. Data might not match due to reporting/timing issues in the underlying data
 
-- The sum of the daily cases in Cheltenham is 1163.
+- The sum of the daily cases in Cheltenham is 1179.
 - The sum of the daily deaths in Cheltenham is 0.
-- The last recorded cumulative cases total in Cheltenham is 1413.
-- The last recorded cumulative death total in Cheltenham is None however, on the 2020-11-21, 109 were recorded as a cumulative total
+- The last recorded cumulative cases total in Cheltenham is 1429.
+- The last recorded cumulative death total in Cheltenham is None however, on the 2020-11-22, 110 were recorded as a cumulative total
 
 ## Last 30 days
 
-- 17 new cases & 0 deaths today
-- 20 new cases & 0 deaths yesterday
+- 16 new cases & 0 deaths today
+- 17 new cases & 0 deaths yesterday
+- 20 new cases & 1 deaths on 2020-11-21
 - 30 new cases & 0 deaths on 2020-11-20
 - 22 new cases & 2 deaths on 2020-11-19
 - 18 new cases & 0 deaths on 2020-11-18
@@ -39,6 +40,5 @@
 - 4 new cases & 1 deaths on 2020-10-27
 - 13 new cases & 2 deaths on 2020-10-26
 - 11 new cases & 0 deaths on 2020-10-25
-- 14 new cases & 0 deaths on 2020-10-24
 
 <!-- summary_marker ends -->
