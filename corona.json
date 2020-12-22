@@ -1,15 +1,28 @@
 [
     {
+        "date": "2020-12-22",
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 36,
+            "cumulative": 1936
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
+    },
+    {
         "date": "2020-12-21",
         "areaName": "Cheltenham",
         "areaCode": "E07000078",
         "cases": {
             "daily": 29,
-            "cumulative": 1900
+            "cumulative": null
         },
         "deaths": {
-            "daily": null,
-            "cumulative": null
+            "daily": 0,
+            "cumulative": 141
         }
     },
     {
@@ -22,7 +35,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 138
+            "cumulative": 141
         }
     },
     {
@@ -35,7 +48,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 137
+            "cumulative": 140
         }
     },
     {
@@ -47,8 +60,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 0,
-            "cumulative": 136
+            "daily": 1,
+            "cumulative": 139
         }
     },
     {
@@ -61,7 +74,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 136
+            "cumulative": 138
         }
     },
     {
@@ -74,7 +87,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 134
+            "cumulative": 136
         }
     },
     {
@@ -87,7 +100,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 133
+            "cumulative": 135
         }
     },
     {
@@ -100,7 +113,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 131
+            "cumulative": 133
         }
     },
     {
@@ -112,8 +125,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 1,
-            "cumulative": 130
+            "daily": 3,
+            "cumulative": 132
         }
     },
     {
