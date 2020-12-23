@@ -1,15 +1,28 @@
 [
     {
+        "date": "2020-12-23",
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 28,
+            "cumulative": 1964
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
+    },
+    {
         "date": "2020-12-22",
         "areaName": "Cheltenham",
         "areaCode": "E07000078",
         "cases": {
             "daily": 36,
-            "cumulative": 1936
+            "cumulative": null
         },
         "deaths": {
-            "daily": null,
-            "cumulative": null
+            "daily": 0,
+            "cumulative": 142
         }
     },
     {
@@ -22,7 +35,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 141
+            "cumulative": 142
         }
     },
     {
@@ -35,7 +48,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 141
+            "cumulative": 142
         }
     },
     {
@@ -48,7 +61,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 140
+            "cumulative": 141
         }
     },
     {
@@ -61,7 +74,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 139
+            "cumulative": 140
         }
     },
     {
@@ -74,7 +87,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 138
+            "cumulative": 139
         }
     },
     {
@@ -87,7 +100,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 136
+            "cumulative": 137
         }
     },
     {
@@ -100,7 +113,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 135
+            "cumulative": 136
         }
     },
     {
@@ -112,8 +125,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 1,
-            "cumulative": 133
+            "daily": 2,
+            "cumulative": 134
         }
     },
     {
@@ -151,7 +164,7 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 0,
+            "daily": 1,
             "cumulative": 128
         }
     },
@@ -164,8 +177,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 3,
-            "cumulative": 128
+            "daily": 2,
+            "cumulative": 127
         }
     },
     {
