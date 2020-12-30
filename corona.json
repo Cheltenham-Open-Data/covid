@@ -1,15 +1,28 @@
 [
     {
+        "date": "2020-12-30",
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 24,
+            "cumulative": 2150
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
+    },
+    {
         "date": "2020-12-29",
         "areaName": "Cheltenham",
         "areaCode": "E07000078",
         "cases": {
             "daily": 32,
-            "cumulative": 2126
+            "cumulative": null
         },
         "deaths": {
-            "daily": null,
-            "cumulative": null
+            "daily": 0,
+            "cumulative": 156
         }
     },
     {
@@ -21,8 +34,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 0,
-            "cumulative": 151
+            "daily": 2,
+            "cumulative": 156
         }
     },
     {
@@ -34,8 +47,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 1,
-            "cumulative": 151
+            "daily": 2,
+            "cumulative": 154
         }
     },
     {
@@ -48,7 +61,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 150
+            "cumulative": 152
         }
     },
     {
@@ -60,8 +73,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 0,
-            "cumulative": 150
+            "daily": 2,
+            "cumulative": 152
         }
     },
     {
