@@ -1,15 +1,28 @@
 [
     {
+        "date": "2021-01-09",
+        "areaName": "Cheltenham",
+        "areaCode": "E07000078",
+        "cases": {
+            "daily": 35,
+            "cumulative": 2676
+        },
+        "deaths": {
+            "daily": null,
+            "cumulative": null
+        }
+    },
+    {
         "date": "2021-01-08",
         "areaName": "Cheltenham",
         "areaCode": "E07000078",
         "cases": {
             "daily": 97,
-            "cumulative": 2641
+            "cumulative": null
         },
         "deaths": {
-            "daily": null,
-            "cumulative": null
+            "daily": 0,
+            "cumulative": 172
         }
     },
     {
@@ -22,7 +35,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 171
+            "cumulative": 172
         }
     },
     {
@@ -35,7 +48,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 171
+            "cumulative": 172
         }
     },
     {
@@ -48,7 +61,7 @@
         },
         "deaths": {
             "daily": 3,
-            "cumulative": 170
+            "cumulative": 171
         }
     },
     {
@@ -61,7 +74,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 167
+            "cumulative": 168
         }
     },
     {
@@ -74,7 +87,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 167
+            "cumulative": 168
         }
     },
     {
@@ -87,7 +100,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 167
+            "cumulative": 168
         }
     },
     {
@@ -100,7 +113,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 166
+            "cumulative": 167
         }
     },
     {
@@ -113,7 +126,7 @@
         },
         "deaths": {
             "daily": 4,
-            "cumulative": 165
+            "cumulative": 166
         }
     },
     {
@@ -126,7 +139,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 161
+            "cumulative": 162
         }
     },
     {
@@ -139,7 +152,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 161
+            "cumulative": 162
         }
     },
     {
@@ -152,7 +165,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 161
+            "cumulative": 162
         }
     },
     {
@@ -165,7 +178,7 @@
         },
         "deaths": {
             "daily": 3,
-            "cumulative": 159
+            "cumulative": 160
         }
     },
     {
@@ -178,7 +191,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 156
+            "cumulative": 157
         }
     },
     {
@@ -191,7 +204,7 @@
         },
         "deaths": {
             "daily": 4,
-            "cumulative": 156
+            "cumulative": 157
         }
     },
     {
@@ -204,7 +217,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 152
+            "cumulative": 153
         }
     },
     {
@@ -217,7 +230,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 151
+            "cumulative": 152
         }
     },
     {
@@ -230,7 +243,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 150
+            "cumulative": 151
         }
     },
     {
@@ -243,7 +256,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 148
+            "cumulative": 149
         }
     },
     {
@@ -256,7 +269,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 148
+            "cumulative": 149
         }
     },
     {
@@ -269,7 +282,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 146
+            "cumulative": 147
         }
     },
     {
@@ -282,7 +295,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 145
+            "cumulative": 146
         }
     },
     {
@@ -295,7 +308,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 143
+            "cumulative": 144
         }
     },
     {
@@ -308,7 +321,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 141
+            "cumulative": 142
         }
     },
     {
@@ -321,7 +334,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 139
+            "cumulative": 140
         }
     },
     {
@@ -334,7 +347,7 @@
         },
         "deaths": {
             "daily": 4,
-            "cumulative": 137
+            "cumulative": 138
         }
     },
     {
@@ -347,7 +360,7 @@
         },
         "deaths": {
             "daily": 3,
-            "cumulative": 133
+            "cumulative": 134
         }
     },
     {
@@ -360,7 +373,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 130
+            "cumulative": 131
         }
     },
     {
@@ -373,7 +386,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 129
+            "cumulative": 130
         }
     },
     {
@@ -386,7 +399,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 128
+            "cumulative": 129
         }
     },
     {
@@ -399,7 +412,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 126
+            "cumulative": 127
         }
     },
     {
@@ -412,7 +425,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 125
+            "cumulative": 126
         }
     },
     {
@@ -425,7 +438,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 123
+            "cumulative": 124
         }
     },
     {
@@ -438,7 +451,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 121
+            "cumulative": 122
         }
     },
     {
@@ -451,7 +464,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 121
+            "cumulative": 122
         }
     },
     {
@@ -464,7 +477,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 120
+            "cumulative": 121
         }
     },
     {
@@ -477,7 +490,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 119
+            "cumulative": 120
         }
     },
     {
@@ -490,7 +503,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 117
+            "cumulative": 118
         }
     },
     {
@@ -503,7 +516,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 117
+            "cumulative": 118
         }
     },
     {
@@ -516,7 +529,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 115
+            "cumulative": 116
         }
     },
     {
@@ -529,7 +542,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 114
+            "cumulative": 115
         }
     },
     {
@@ -542,7 +555,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 114
+            "cumulative": 115
         }
     },
     {
@@ -555,7 +568,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 113
+            "cumulative": 114
         }
     },
     {
@@ -568,7 +581,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 113
+            "cumulative": 114
         }
     },
     {
@@ -581,7 +594,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 113
+            "cumulative": 114
         }
     },
     {
@@ -594,7 +607,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 113
+            "cumulative": 114
         }
     },
     {
@@ -607,7 +620,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 112
+            "cumulative": 113
         }
     },
     {
@@ -620,7 +633,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 112
+            "cumulative": 113
         }
     },
     {
@@ -633,7 +646,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 111
+            "cumulative": 112
         }
     },
     {
@@ -646,7 +659,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 111
+            "cumulative": 112
         }
     },
     {
@@ -659,7 +672,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 110
+            "cumulative": 111
         }
     },
     {
@@ -672,7 +685,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 108
+            "cumulative": 109
         }
     },
     {
@@ -685,7 +698,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 108
+            "cumulative": 109
         }
     },
     {
@@ -698,7 +711,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 107
+            "cumulative": 108
         }
     },
     {
@@ -711,7 +724,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 106
+            "cumulative": 107
         }
     },
     {
@@ -724,7 +737,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 106
+            "cumulative": 107
         }
     },
     {
@@ -737,7 +750,7 @@
         },
         "deaths": {
             "daily": 2,
-            "cumulative": 106
+            "cumulative": 107
         }
     },
     {
@@ -750,7 +763,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 104
+            "cumulative": 105
         }
     },
     {
@@ -763,7 +776,7 @@
         },
         "deaths": {
             "daily": 1,
-            "cumulative": 104
+            "cumulative": 105
         }
     },
     {
@@ -776,7 +789,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -789,7 +802,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -802,7 +815,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -815,7 +828,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -828,7 +841,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -841,7 +854,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -854,7 +867,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -867,7 +880,7 @@
         },
         "deaths": {
             "daily": 0,
-            "cumulative": 103
+            "cumulative": 104
         }
     },
     {
@@ -879,8 +892,8 @@
             "cumulative": null
         },
         "deaths": {
-            "daily": 0,
-            "cumulative": 103
+            "daily": 1,
+            "cumulative": 104
         }
     },
     {
