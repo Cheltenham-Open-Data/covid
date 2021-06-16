@@ -4,7 +4,7 @@ import json
 import pathlib
 import os
 
-city = os.getenv('city_code') or 'Cheltenham'
+city = os.getenv('CITY_CODE') or 'Cheltenham'
 
 def get_covid_data():
     endpoint = (
